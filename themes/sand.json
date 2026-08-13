@@ -16,7 +16,7 @@
         "elevated_surface.background": "#F4F4F0FF",
         "surface.background": "#F4F4F0FF",
         "background": "#F1EFE9FF",
-        "element.background": "#ebebecff",
+        "element.background": "#f2f2f2ff",
         "element.hover": "#dfdfe0ff",
         "element.active": "#cacacaff",
         "element.selected": "#cacacaff",
