@@ -3,5 +3,5 @@ name = "Sand"
 version = "0.0.1"
 schema_version = 1
 authors = ["jomla97"]
-description = "Zed is at the beach. Can I take a message?"
+description = "🏖️ Zed is at the beach. Can I take a message?"
 repository = "https://github.com/jomla97/zed-theme-sand"
